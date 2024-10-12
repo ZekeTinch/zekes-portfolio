@@ -21,11 +21,6 @@ export default function Nav() {
                         </Link>
                     </li>
                     <li className="nav-item">
-                    <Link className="nav-link" to={'/portfolio'}>
-                            Portfolio
-                        </Link>
-                    </li>
-                    <li className="nav-item">
                     <Link className="nav-link" to={'/resume'}>
                             Resume
                         </Link>
