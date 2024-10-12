@@ -1,0 +1,23 @@
+/* .footer {
+    width: 50px;
+}; */
+
+.stack {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+}
+
+.header{
+    position: absolute;
+    color: black;
+}
