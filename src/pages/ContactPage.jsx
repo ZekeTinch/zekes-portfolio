@@ -16,10 +16,6 @@ export default function ContactPage() {
                 <li className="col d-flex justify-content-center">ZekeTinch@gmail.com</li>
             </ul>
 
-            <ul>
-                <h1 className="col d-flex justify-content-center">Cellphone Number</h1>
-                <li className="col d-flex justify-content-center">931-200-2927</li>
-            </ul>
 
         </div>
     )
