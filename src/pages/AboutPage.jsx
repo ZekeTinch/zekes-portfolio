@@ -12,7 +12,7 @@ export default function AboutPage() {
                         I attended the accelerated coding program through Vanderbilt University. I am a certified web developer. 
                         I am eager to build my career with either individuals or companies. As a lifelong learner I am always looking 
                         for opportunities to grow my knowledge in this field and others. If you are looking for a dedicated, 
-                        hard working member to add to your team, let’s talk.  
+                        hard working member to add to your team, let us talk.  
                     </p>
                 </section>
             </div>
