@@ -2,7 +2,7 @@ export default function AboutPage() {
     return (
         <div className = "container">
             <div className = "mx-auto flex p-6">
-                <img  className = 'mg-auto' src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/464290185_7862542257180062_1251319677120310491_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cNg29sD5gjMQ7kNvgFq1Z95&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=ABgBGSEOGfNHDKaAKvSicPI&oh=00_AYAlYpLbFHv49yXJm93sRaPnuRgZmhfFHl5cnGUvbJKhGQ&oe=671C682E"></img>
+                <img  className = 'mg-auto' src="./images/headshot.jpg"></img>
                 <h1 className="col d-flex justify-content-center"> About Me </h1>
             
                 <section >
